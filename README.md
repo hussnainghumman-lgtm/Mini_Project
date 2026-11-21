@@ -19,7 +19,7 @@ The aim is to identify areas where profitability may be weaker and recommend str
 
 ## Problem Statement
 
-Retail businesses need to understand not only how much revenue they generate but also how much profit they retain after costs.
+These Retail businesses need to understand not only how much revenue they generate but also how much profit they retain after costs.
 
 This project analyses a Nike sales dataset to identify products, regions and sales channels that perform well or poorly in terms of estimated profitability. It also explores the relationship between discount levels and estimated profit.
 
